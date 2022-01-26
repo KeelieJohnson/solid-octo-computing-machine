@@ -1,0 +1,17 @@
+.this {
+    border-style: dashed;
+    border-color: orange;
+    background-color: yellow;
+    width: 220px;
+    height: 220px;
+    overflow: scroll;
+}
+body {
+    border: solid;
+    border-width: 1px;
+    width: 280px;
+    background-color: beige;
+}
+img { border: inset;
+      border-color: orange; 
+      }
